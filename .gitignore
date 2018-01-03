@@ -1,5 +1,3 @@
 .gitignore
 .idea/
-glide.lock
-glide.yaml
 vendor/
